@@ -1,9 +1,6 @@
----
-title: "CodeBook"
-author: "Brant D. Mullinix"
-date: "November 19, 2015"
-output: html_document
----
+###CodeBook
+####Brant D. Mullinix
+####November 19, 2015
 
 This code book summarizes the resulting data fields in tidy.txt.
 

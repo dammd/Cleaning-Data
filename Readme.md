@@ -1,9 +1,9 @@
----
-title: "README"
-author: "Brant D. Mullinix"
-date: "November 18, 2015"
-output: html_document
----
+##README
+####Brant D. Mullinix
+####November 19, 2015
+
+
+
 ###Getting and Cleaning Data Course Project
 
 ####Project Description
